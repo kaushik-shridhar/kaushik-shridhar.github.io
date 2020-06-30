@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Facebook-log in or sign up</title>
+	<link rel="stylesheet" type="text/css" href="nextpracticecss.css">
+</head>
+<body>
+	<div class="login">
+		<img src="images.png" class="logo">
+		<form>
+			<table id="table1">
+				<tr>
+					<td align="left" class="ab">Email or Phone</td>
+					<td align="left" class="ab">Password</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td><input type="text" name="loginid"></td>
+					<td><input type="password" name="password"></td>
+					<td><input type="submit" name="Login" value="Log In">
+				</tr>
+				<tr>
+					<td></td>
+					<td><a href="#forgotpassword">Forgotten account?</a></td>
+				</tr>
+			</table>
+		</form>
+	</div>
+	<p class="para">Facebook helps you connect and share with the<br> people in your life</p>
+	<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yi/r/OBaVg52wtTZ.png" class="connectivity">
+	<div class="adv">
+		<table id="table2">
+			<tr>
+				<td><h1><big>Create an account</big></h1></td>
+			</tr>
+			<tr>
+				<td align="left"><big>It's free and always will be.</big></td>
+			</tr>
+		</table>
+		<div style="clear: both;"></div>
+			<table id="table3">
+				<tr>
+				<td>                                              <input type="text" name="firstname" placeholder="First name" id="textbox"></td>
+				 <td> <input type="text" name="lastname" placeholder="Surname" id="textbox">
+			</td>
+		</tr>
+			</table>
+			<div style="clear: both;"></div>
+			<input type="text" name="contactinfo" placeholder="Mobile number or email address" class="formm">
+			<div style="clear: both;"></div>
+			<input type="passwprd" name="confirmation" placeholder="New password" class="formm">
+			<div style="clear: both;"></div>
+			<h3 class="bd">Birthday</h3>
+			<div style="clear: both;"></div>
+			<p class="bday">
+			<select name="date">
+				<option>Day</option>
+				<option>1</option>
+				<option>2</option>
+				<option>3</option>
+				<option>4</option>
+				<option>5</option>
+				<option>6</option>
+				<option>7</option>
+				<option>8</option>
+				<option>9</option>
+				<option>10</option>
+				<option>11</option>
+				<option>12</option>
+				<option>13</option>
+				<option>14</option>
+				<option>15</option>
+				<option>16</option>
+				<option>17</option>
+				<option>18</option>
+				<option>19</option>
+				<option>20</option>
+				<option>21</option>
+				<option>22</option>
+				<option>23</option>
+				<option>24</option>
+				<option>25</option>
+				<option>26</option>
+				<option>27</option>
+				<option>28</option>
+				<option>29</option>
+				<option>30</option>
+				<option>31</option>
+			</select>
+			<select name="month">
+				<option>Month</option>
+				<option>Jan</option>
+				<option>Feb</option>
+				<option>Mar</option>
+				<option>Apr</option>
+				<option>May</option>
+				<option>Jun</option>
+				<option>Jul</option>
+				<option>Aug</option>
+				<option>Sep</option>
+				<option>Oct</option>
+				<option>Nov</option>
+				<option>Dec</option>
+			</select>
+			<select name="year">
+				<option>Year</option>
+				<option>1985</option>
+				<option>1986</option>
+				<option>1987</option>
+				<option>1988</option>
+				<option>1989</option>
+				<option>1990</option>
+				<option>1991</option>
+				<option>1992</option>
+				<option>1993</option>
+				<option>1994</option>
+				<option>1995</option>
+				<option>1996</option>
+				<option>1997</option>
+				<option>1998</option>
+				<option>1999</option>
+				<option>2000</option>
+				<option>2001</option>
+				<option>2002</option>
+				<option>2003</option>
+				<option>2004</option>
+				<option>2005</option>
+				<option>2006</option>
+				<option>2007</option>
+				<option>2008</option>
+				<option>2009</option>
+				<option>2010</option>
+				<option>2011</option>
+				<option>2012</option>
+				<option>2013</option>
+				<option>2014</option>
+				<option>2015</option>
+				<option>2016</option>
+				<option>2017</option>
+				<option>2018</option>
+				<option>2019</option>
+			</select>
+		</p>
+		<div style="clear: both;"></div>
+		<h3 class="g">Gender</h3>
+		<div style="clear: both;"></div>
+		<p class="Gender">
+			<input type="radio" name="gender" value="Female">Female
+			<input type="radio" name="gender" value="Male">Male
+			<input type="radio" name="gender" value="custom">Custom
+		</p>
+		<div style="clear: both;"></div>
+		<p class="Terms"><small>By clicking Sign Up, you agree to our<a href="#tdp" class="highlight"> Terms, Data Policy</a> and<br><a href="#Cookie" class="highlight"> Cookie Policy</a>. You may receive SMS notifications from us and<br> can opt out at any time.</small></p>
+		<div style="clear: both;"></div>
+		<input type="submit" name="signup" value="Sign Up" class="tp">
+		<div style="clear: both;"></div>
+		<p class="finaladv"><small><a href="#Create" class="adv1">Create a Page </a>for a celebrity, band or business.</small></p>
+	</div>
+	<div class="langoptions">
+		<table id="table4" align="center">
+			<tr>
+				<td><small><a href="#english" class="lang">English(UK)</a></small></td>
+				<td></td>
+				<td><small><a href="#hindi" class="lang">हिन्दी</a></small></td>
+				<td></td>
+				<td><small><a href="#marathi" class="lang">मराठी</a></small></td>
+				<td></td>
+				<td><small><a href="#spanish" class="lang">Español</a></small></td>
+				<td></td>
+				<td><small><input type="submit" name="more" value="+" class="newbutton"></small></td>
+		</table><hr id="underline">
+		<div style="clear: both;"></div>
+		<table id="table4">
+			<tr>
+				<td><small><a href="#signup" class="lang">Sign Up</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#login" class="lang">Log In</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#messenger" class="lang">Messenger</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#facebooklite" class="lang">Facebook Lite</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#watch" class="lang">Watch</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#people" class="lang">People</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#profiles" class="lang">Profiles</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#pages" class="lang">Pages</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#pagecategories" class="lang">Page categories</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#events" class="lang">Events</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#places" class="lang">Places</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#games" class="lang">Games</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#locations" class="lang">Locations</a></small></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td><small><a href="#marketplace" class="lang">Marketplace</a></small></td>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>
